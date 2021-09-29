@@ -1,0 +1,15 @@
+{
+ "color" : [
+  {"white_main" : "#FFFFFF"},
+  {"white_sub" : "#E5E5E5"},
+  {"grey_main" : "#828282"},
+  {"grey_sub" : "#F2F2F2"},
+  {"pink_main" : "#FF6262"},
+  {"pink_sub" : "#FFEFEF"},
+  {"blue" : "#44BAF1"},
+  {"teal" : "#17D0BC"},
+  {"orange" : "#FF8015"},
+  {"yellow" : "#F7C11B"},
+  {"black_text" : "#333333"}
+ ]
+}
