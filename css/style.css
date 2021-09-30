@@ -2120,7 +2120,8 @@ Back To Top Section
     width: 80%; }
   .navbar-main.stiky .navbar {
     padding-top: 8px;
-    padding-bottom: 8px; }
+    padding-bottom: 8px;
+    background-color: #FDEBF2; }
   .navbar-main.open .navbar-nav {
     display: none; }
 
@@ -2156,7 +2157,7 @@ Back To Top Section
         color: #ffffff; }
     .header-1 .navbar-main.stiky {
       height: auto;
-      background-color: #ffffff;
+      background-color: #FDEBF2;
       position: fixed;
       top: 0;
       right: 0;

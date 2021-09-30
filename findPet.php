@@ -127,7 +127,7 @@
                                         <a href="adoptPet.html"><img src="https://asset.chopet.vn/temps/27-09-2021/4323ba12d6ce1cf2864bdbdc0ed81834be8f1fae.jpeg?t=webp&w=250" alt="" class="img-fluid"></a>
                                     </div>
                                     <div class="body-text">
-                                        <h4 class="title"><a href="shop-single.html">Cat & Small Dog Carrier</a></h4>
+                                        <h4 class="title"><a href="adoptPet.html">BlueGolden Ay12 Phả WCF </a></h4>
                                         <div class="meta">
                                             <div class="price">$29</div>
                                             <div class="rating">
