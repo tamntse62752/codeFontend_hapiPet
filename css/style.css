@@ -2139,7 +2139,7 @@ Back To Top Section
 .header-1 {
   /*position: relative;*/ }
   .header-1 .navbar-main {
-    background-color: #ffd1d1;
+    background-color: #fdebf2;
     /* END NAVBAR NAV */
     /* END STIKY */ }
     .header-1 .navbar-main .navbar-brand {
@@ -2957,4 +2957,12 @@ ul.list-info  {
 
 .title {
   font-family: 'Font Awesome 5 Brands';
+}
+
+.product-thumb{
+  width: 160px;
+  height: 160px;
+  position: relative;
+  padding-left: 15px;
+  padding-right: 15px;
 }

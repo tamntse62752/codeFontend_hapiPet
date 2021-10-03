@@ -21,6 +21,7 @@
 	=============================================== -->
 	<link rel="stylesheet" type="text/css" href="css/vendor/bootstrap.min.css" />
 	<link rel="stylesheet" type="text/css" href="css/vendor/font-awesome.min.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css">
 	<link rel="stylesheet" type="text/css" href="css/vendor/owl.carousel.min.css">
 	<link rel="stylesheet" type="text/css" href="css/vendor/owl.theme.default.min.css">
 	<link rel="stylesheet" type="text/css" href="css/vendor/magnific-popup.css">
@@ -130,7 +131,7 @@
 								<a class="nav-link" href="mypet.html">Your Pet</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="post-list.php">Post List</a>
+								<a class="nav-link" href="post-list.php">Blog List</a>
 							</li>
 							
 						</ul>
@@ -160,7 +161,7 @@
 			    <nav aria-label="breadcrumb">
 				  <ol class="breadcrumb ">
 				    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-				    <li class="breadcrumb-item active" aria-current="page">Post List</li>
+				    <li class="breadcrumb-item active" aria-current="page">Blog List</li>
 				  </ol>
 				</nav>					
 			</div>
@@ -176,13 +177,12 @@
         <div class="post clearfix">
           <img src="images/post/10_phut.jpg" alt="" class="post-image">
           <div class="post-preview">
-            <h5><a href="single-post.html">10 phut huan luyen cho moi ngay</a></h5>
+            <h3><a href="single-post.html">10 phut huan luyen cho moi ngay</a></h3>
             <i class="far fa-user"> Tam Nguyen</i>
             &nbsp;
             <i class="far fa-calendar"> 11/10/2021</i>
             <p class="preview-text">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              Exercitationem optio possimus a inventore maxime laborum.
+              Chó là 1 loài vật rất trung thành với con người. Chúng là loài vật đáng yêu và mang lại nhiều niềm vui cho con người. Tuy vậy để huấn luyện chó con biết vâng lời thì cần phải có 1 sự nỗ lực và kiên trì từ bạn
             </p>
             
           </div>
@@ -190,13 +190,12 @@
         <div class="post clearfix">
           <img src="images/post/thay_rang.jpg" alt="" class="post-image">
           <div class="post-preview">
-            <h5><a href="single-post.html">Cho trong giai doan thay rang</a></h5>
+            <h3><a href="single-post.html">Cho trong giai doan thay rang</a></h3>
             <i class="far fa-user"> Tam Nguyen</i>
             &nbsp;
             <i class="far fa-calendar"> 11/10/2021</i>
             <p class="preview-text">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              Exercitationem optio possimus a inventore maxime laborum.
+              Những chú chó nói riêng và tất cả thú cưng nhìn chung đều rất trung thành. Chúng bảo vệ bạn khỏi người lạ, chào đón bạn sau một ngày dài mệt mỏi và luôn thể hiện tình cảm với bạn.
             </p>
             
           </div>
@@ -204,13 +203,12 @@
         <div class="post clearfix">
           <img src="images/post/dinh_duong.jpg" alt="" class="post-image">
           <div class="post-preview">
-            <h5><a href="single-post.html">Cac chat dinh duong can phai biet</a></h5>
+            <h3><a href="single-post.html">Cac chat dinh duong can phai biet</a></h3>
             <i class="far fa-user"> Tam Nguyen</i>
             &nbsp;
             <i class="far fa-calendar"> 11/10/2021</i>
             <p class="preview-text">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              Exercitationem optio possimus a inventore maxime laborum.
+              Những chú chó nói riêng và tất cả thú cưng nhìn chung đều rất trung thành. Chúng bảo vệ bạn khỏi người lạ, chào đón bạn sau một ngày dài mệt mỏi và luôn thể hiện tình cảm với bạn.
             </p>
             
           </div>
@@ -218,13 +216,12 @@
         <div class="post clearfix">
           <img src="images/post/soc_nhiet.jpg" alt="" class="post-image">
           <div class="post-preview">
-            <h5><a href="single-post.html">Chong soc nhiet cho thu cung</a></h5>
+            <h3><a href="single-post.html">Chong soc nhiet cho thu cung</a></h3>
             <i class="far fa-user"> Tam Nguyen</i>
             &nbsp;
             <i class="far fa-calendar"> 11/10/2021</i>
             <p class="preview-text">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              Exercitationem optio possimus a inventore maxime laborum.
+              Chó bị sốc nhiệt là tình trạng nhiệt độ cơ thể chó cao quá mức (thân nhiệt của chó đo tại trực tràng dao động từ 40.5 tới 43 độ C) gây ra những bất thường trong hệ thống thần kinh và dẫn tới những tình trạng như hôn mê, yếu ớt, ngất xỉu hay lờ đờ.
             </p>
             
           </div>
@@ -235,9 +232,8 @@
       <!-- // Main Content -->
 
       <div class="sidebar">
-
         <div class="section search">
-          <h5 class="section-title">Search</h5>
+          <h3 class="section-title">Search</h3>
           <form action="index.html" method="post">
             <input type="text" name="search-term" class="text-input" placeholder="Search...">
           </form>
@@ -247,97 +243,76 @@
 
     </div>
 
-	<!-- CTA -->
-	
 
 	<!-- FOOTER SECTION -->
-	<div class="footer bg-overlay-secondary" data-background="images/dummy-img-1920x900-3.jpg">
-		<div class="content-wrap">
-			<div class="container">
-				
-				<div class="row">
-					<div class="col-sm-6 col-md-4">
-						<div class="footer-item">
-							<img src="images/logo_w.png" alt="logo bottom" class="logo-bottom">
-							<div class="spacer-20"></div>
-							<p>We are pets center at vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque.</p>
-							<div class="spacer-20"></div>
-							<img src="images/payment.png" alt="">
-						</div>
-					</div>
+	<div class="footer bg-overlay-secondary" data-background="https://i.imgur.com/IolBwzT.png" style="background-image: url(&quot;https://i.imgur.com/IolBwzT.png&quot;);">
+						<div class="content-wrap">
+							<div class="container">
 
-					<div class="col-sm-6 col-md-4">
-						<div class="footer-item">
-							<div class="footer-title">
-								Opening Hours
-							</div>
-							<p>Our support available to help you 24 hours a day. We provide our best.</p>
-							<ul class="list">
-								<li>
-									Mon - Fri : 08.00 am - 20.00 pm
-								</li>
-								<li>
-									Saturday : 09.00 am - 20.00 pm
-								</li>
-								<li>
-									Sunday :  We Are Closed
-								</li>
-							</ul>
+								<div class="row">
+									<div class="col-sm-6 col-md-4">
+										<div class="footer-item">
+											<img src="https://i.imgur.com/WjN1HZX.png" alt="logo bottom" class="logo-bottom">
+											<div class="spacer-20"></div>
+											<p>Hapi Pet mang đến cho người dùng một cộng đồng những người yêu thích thú cưng. Ở đây các bạn có thể nhận được dịch vụ chăm sóc tốt nhất và cùng nhau chia sẻ những khoảnh khắc đáng nhớ về thú cưng của mình.</p>
+										</div>
+									</div>
 
-						</div>
-					</div>
-					
-					<div class="col-sm-6 col-md-4">
-						<div class="footer-item">
-							<div class="footer-title">
-								Contact Info
+									<div class="col-sm-6 col-md-4">
+
+									</div>
+
+									<div class="col-sm-6 col-md-4">
+										<div class="footer-item">
+											<div class="footer-title">
+												Liên hệ
+											</div>
+											<p>Công ty Tâm Huyết Việt</p>
+											<ul class="list-info">
+												<li>
+													<div class="info-icon text-primary">
+														<span class="fa fa-map-marker" aria-hidden="true"></span>
+													</div>
+													<div class="info-text">449 Trần Hưng Đạo, Q1, Tp HCM</div> 
+												</li>
+												<li>
+													<div class="info-icon text-primary">
+														<span class="fa fa-phone" aria-hidden="true"></span>
+													</div>
+													<div class="info-text">090 6979 xxx</div>
+												</li>
+												<li>
+													<div class="info-icon text-primary">
+														<span class="fa fa-envelope" aria-hidden="true"></span>
+													</div>
+													<div class="info-text">hapipet@gmail.com</div>
+												</li>
+											</ul>
+										</div>
+									</div>
+								</div>
 							</div>
-							<p>Lit sed The Best in dolor sit amet consectetur</p>
-							<ul class="list-info">
-								<li>
-									<div class="info-icon text-primary">
-										<span class="fa fa-map-marker"></span>
-									</div>
-									<div class="info-text">99 S.t Jomblo Park Pekanbaru 28292. Indonesia</div> 
-								</li>
-								<li>
-									<div class="info-icon text-primary">
-										<span class="fa fa-phone"></span>
-									</div>
-									<div class="info-text">(0761) 654-123987</div>
-								</li>
-								<li>
-									<div class="info-icon text-primary">
-										<span class="fa fa-envelope"></span>
-									</div>
-									<div class="info-text">mail@hellopets.com</div>
-								</li>
-							</ul>
 						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		
-		<div class="fcopy">
-			<div class="container">
-				<div class="row">
-					<div class="col-sm-6 col-md-6">
-						<p class="ftex">&copy; 2019 Your Company. All Rights Reserved. Designed By <span class="text-primary">Rometheme</span></p> 
-					</div>
-					<div class="col-sm-6 col-md-6">
-						<div class="sosmed-icon d-inline-flex float-right">
-							<a href="#"><i class="fa fa-facebook"></i></a> 
-							<a href="#"><i class="fa fa-twitter"></i></a> 
-							<a href="#"><i class="fa fa-instagram"></i></a> 
-							<a href="#"><i class="fa fa-pinterest"></i></a> 
+
+						<div class="fcopy">
+							<div class="container">
+								<div class="row">
+									<div class="col-sm-6 col-md-6">
+										<p class="ftex">© 2021 Designed By <span class="text-primary">Do Nam</span></p> 
+									</div>
+									<div class="col-sm-6 col-md-6">
+										<div class="sosmed-icon d-inline-flex float-right">
+											<a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a> 
+											<a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a> 
+											<a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a> 
+											<a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a> 
+										</div>
+									</div>
+								</div>
+							</div>
 						</div>
+
 					</div>
-				</div>
-			</div>
-		</div>
-		
-	</div>
 	
 	<!-- JS VENDOR -->
 	<script src="js/vendor/jquery.min.js"></script>
