@@ -2960,9 +2960,18 @@ ul.list-info  {
 }
 
 .product-thumb{
+  width: 253.4px;
+  height: 253.4px;
+  position: relative;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.product_page-thumb{
   width: 160px;
   height: 160px;
   position: relative;
   padding-left: 15px;
   padding-right: 15px;
 }
+
