@@ -115,10 +115,10 @@
 					<div class="collapse navbar-collapse" id="navbarNavDropdown">
 						<ul class="navbar-nav">
 							<li class="nav-item dropdown dmenu">
-								<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">TRANG CHỦ</a>
+								<a class="nav-link dropdown-toggle" href="index.html" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">TRANG CHỦ</a>
 								<div class="dropdown-menu">
 									<a class="dropdown-item" href="index.html">Pets Care</a>
-									<a class="dropdown-item" href="shop.php">Pets Shop</a>
+									<a class="dropdown-item" href="shop.html">Pets Shop</a>
 								</div>
 							</li>
 							<li class="nav-item">
@@ -130,7 +130,6 @@
 							<li class="nav-item">
 								<a class="nav-link" href="post-list.php">Pet Blog</a>
 							</li>
-							
 						</ul>
 						<a id="modal_trigger" class="btn btn-secondary btn-nav btn-rect ml-auto">Liên hệ ngay</a>
 					</div>
@@ -174,7 +173,7 @@
 			<div class="post clearfix">
 				<img src="images/post/10_phut.jpg" alt="" class="post-image">
 				<div class="post-preview">
-					<h3><a href="single-post.php">10 phut huan luyen cho moi ngay</a></h3>
+					<h3><a href="single-post.html">10 phut huan luyen cho moi ngay</a></h3>
 					<i class="far fa-user"> Tam Nguyen</i>
 					&nbsp;
 					<i class="far fa-calendar"> 11/10/2021</i>
@@ -187,7 +186,7 @@
 			<div class="post clearfix">
 				<img src="images/post/thay_rang.jpg" alt="" class="post-image">
 				<div class="post-preview">
-					<h3><a href="single-post.php">Cho trong giai doan thay rang</a></h3>
+					<h3><a href="single-post.html">Cho trong giai doan thay rang</a></h3>
 					<i class="far fa-user"> Tam Nguyen</i>
 					&nbsp;
 					<i class="far fa-calendar"> 11/10/2021</i>
@@ -200,7 +199,7 @@
 			<div class="post clearfix">
 				<img src="images/post/dinh_duong.jpg" alt="" class="post-image">
 				<div class="post-preview">
-					<h3><a href="single-post.php">Cac chat dinh duong can phai biet</a></h3>
+					<h3><a href="single-post.html">Cac chat dinh duong can phai biet</a></h3>
 					<i class="far fa-user"> Tam Nguyen</i>
 					&nbsp;
 					<i class="far fa-calendar"> 11/10/2021</i>
@@ -213,7 +212,7 @@
 			<div class="post clearfix">
 				<img src="images/post/soc_nhiet.jpg" alt="" class="post-image">
 				<div class="post-preview">
-					<h3><a href="single-post.php">Chong soc nhiet cho thu cung</a></h3>
+					<h3><a href="single-post.html">Chong soc nhiet cho thu cung</a></h3>
 					<i class="far fa-user"> Tam Nguyen</i>
 					&nbsp;
 					<i class="far fa-calendar"> 11/10/2021</i>
