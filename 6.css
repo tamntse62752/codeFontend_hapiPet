@@ -1,0 +1,267 @@
+main {
+  background-color: #ffd1d1;
+  /*bottom: 30px;*/
+  box-shadow: rgba(0,0,0,.3) 0 0 8px;
+  box-sizing: border-box;
+  color: #222;
+  display: block;
+  font-family: Helvetica,Arial,Roboto,sans-serif;
+  font-size: 14px;
+  left: 50%;
+  /*line-height: 21px;*/
+  padding: 20px;
+  position: absolute;
+  quotes: auto;
+  text-align: left;
+  /*top: 0;*/
+  transform: translateX(-50%);
+  width: 1325px;
+  z-index: 2;
+}
+#content {
+  background: #fff;
+  width: 590px;
+  /*float: left;*/
+  padding: 1em;
+
+}
+/*#sidebar {
+  background: #fff;
+  width: 400px;
+  float:right;
+  padding: 1em;
+}*/
+
+
+#google {
+  background: #fff;
+  width: 212px;
+  float: left;
+  padding: 1em;
+
+}
+#facebook {
+  background: #fff;
+  width: 400px;
+  float:right;
+  padding: 1em;
+}
+a {
+  box-sizing: border-box;
+  color: #38699f;
+  cursor: pointer;
+  font-family: Helvetica,Arial,Roboto,sans-serif;
+  font-size: 12px;
+  line-height: 21px;
+  quotes: auto;
+  text-align: center;
+  text-decoration: none;
+}
+
+h3 {
+  box-sizing: border-box;
+  color: #f1695d;
+  font-family: Helvetica,Arial,Roboto,sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1.5;
+  margin-bottom: 0;
+  margin-top: 0;
+  quotes: auto;
+  text-align: left;
+}
+
+h4 {
+  /*box-sizing: border-box;*/
+  color: #222;
+  font-family: Helvetica,Arial,Roboto,sans-serif;
+  font-size: 20px;
+  /*font-weight: 700;*/
+  line-height: 1.5;
+  margin-bottom: 0;
+  margin-top: 0;
+  quotes: auto;
+  text-align: left;
+}
+.mauden {
+   color: #ff5252;
+  font-family: Helvetica,Arial,Roboto,sans-serif;
+  font-size: 20px;
+  font-weight: 750;
+  line-height: 1.5;
+  /*margin-bottom: 0;*/
+  /*margin-top: 0;*/
+  quotes: auto;
+  text-align: center;
+}
+button.btsocialloginfb  {
+  appearance: button;
+  background-color: #2450af;
+  border-width: 0;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  font-family: futura-REGULAR;
+  font-size: 14px;
+  margin: 10px 1%;
+  outline: 0;
+  overflow: visible;
+  padding: 10px;
+  quotes: auto;
+  text-align: center;
+  text-transform: none;
+  transition: all .3s ease-in-out;
+  width: 47%;
+}
+
+button.btsociallogingg  {
+  appearance: button;
+  background-color: #df4a32;
+  border-width: 0;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  font-family: futura-REGULAR;
+  font-size: 14px;
+  margin: 10px 1%;
+  outline: none;
+  overflow: visible;
+  padding: 10px;
+  quotes: auto;
+  text-align: center;
+  text-transform: none;
+  transition: all .3s ease-in-out;
+  width: 47%;
+}
+button.btn.btn-block.btn-submit  {
+     color: rgb(255, 255, 255);
+    cursor: pointer;
+    font-family: arvo, serif;
+    font-size: 23px;
+    line-height: 38px;
+    quotes: auto;
+    text-align: center;
+    white-space: nowrap;
+    border: 1px solid transparent;
+        border-radius: 1.25rem;
+}
+}
+p {
+  box-sizing: border-box;
+  color: #9b9b9b;
+  font-family: Helvetica,Arial,Roboto,sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+  margin-bottom: 8px;
+  margin-top: 0;
+  quotes: auto;
+  text-align: left;
+}
+button.btn-facebook  {
+  align-items: center;
+  appearance: button;
+  background-color: #2767b2;
+  border-radius: 5px;
+  border-style: none;
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  font-size: 12px;
+  margin: 6px;
+  outline: none;
+  overflow: visible;
+  padding: 6px 12px;
+  quotes: auto;
+  text-align: center;
+  text-transform: none;
+  width: 100%;
+}
+
+img {
+  /*text-align: center;
+  max-width:500px;*/
+  margin: 20px
+}
+input.i1pbvj0j  {
+  border: 1px solid #cacaca;
+  border-radius: 4px;
+  box-sizing: border-box;
+  color: #222;
+  cursor: text;
+  font-size: 14px;
+  height: 36px;
+  margin: 0;
+  overflow: visible;
+  padding: 30px;
+  quotes: auto;
+  width: 100%;
+}
+
+div.sp7vspb  {
+  -webkit-box-align: center;
+  align-items: center;
+  box-sizing: border-box;
+  color: #222;
+  display: flex;
+  flex-direction: column;
+  font-family: Helvetica,Arial,Roboto,sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+  margin: auto;
+  padding-top: 8px;
+  quotes: auto;
+  text-align: left;
+  width: 100%;
+}
+
+.ibwkkdl{
+  text-align: center;
+  text-transform: none;
+  width: 100%;
+}
+
+div.item.plus  {
+  color: #fff;
+  cursor: pointer;
+  font-family: "Noto Sans",Arial,sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+  quotes: auto;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+span.fab.fa-facebook-f  {
+  color: #187caa;
+  cursor: pointer;
+  font-family: "Font Awesome 5 Brands";
+  font-size: 15px;
+  line-height: 25px;
+  quotes: auto;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+i.fab.fa-google-plus-g  {
+  color: #ff5252;
+  cursor: pointer;
+  font-family: "Font Awesome 5 Brands";
+  font-size: 15px;
+  line-height: 25px;
+  quotes: auto;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+/*.summit  {
+  background-color: #F1695B;
+    color: #fff;
+    cursor: pointer;
+    font-family: arvo,serif;
+    font-size: 23px;
+    line-height: 38px;
+    quotes: auto;
+    text-align: center;
+     text-transform: uppercase; 
+    white-space: nowrap;
+}*/
