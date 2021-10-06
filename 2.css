@@ -1,0 +1,289 @@
+section#comment-wrap  {
+  box-sizing: border-box;
+  color: #3d3d3d;
+  display: block;
+  font-family: Roboto,Helvetica,Arial,Lucida,sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 25.5px;
+  padding-top: 75px;
+  quotes: auto;
+  text-align: left;
+  word-wrap: break-word;
+  margin: 10%;
+}
+
+input#submit.submit.et_pb_button  {
+  appearance: none;
+  background-color: transparent;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 3px;
+  border-style: solid;
+  border-width: 2px;
+  box-sizing: border-box;
+  color: #2ea3f2;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.7em;
+  overflow-wrap: break-word;
+  padding: .3em 1em;
+  position: relative;
+  quotes: auto;
+  text-align: center;
+  transition: all .2s ease 0s;
+  white-space: pre;
+  word-wrap: break-word;
+}
+input#author  {
+  appearance: none;
+  background-color: #eee;
+  border: 0 solid #bbb;
+  box-sizing: border-box;
+  color: #999;
+  cursor: text;
+  font-size: 18px;
+  line-height: 1em;
+  margin: 0;
+  padding: 12px;
+  quotes: auto;
+  width: 47%;
+  word-wrap: break-word;
+}
+input#email  {
+  appearance: none;
+  background-color: #eee;
+  border: 0 solid #bbb;
+  box-sizing: border-box;
+  color: #999;
+  cursor: text;
+  font-size: 18px;
+  line-height: 1em;
+  margin: 0;
+  padding: 12px;
+  quotes: auto;
+  width: 47%;
+  word-wrap: break-word;
+}
+
+p.comment-form-comment  {
+  background-position: 0 0;
+  border-width: 0;
+  box-sizing: border-box;
+  color: #3d3d3d;
+  font-family: Roboto,Helvetica,Arial,Lucida,sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 25.5px;
+  margin: 0;
+  outline: 0;
+  padding: 0 0 1em;
+  quotes: auto;
+  text-align: left;
+  text-size-adjust: 100%;
+  vertical-align: baseline;
+  word-wrap: break-word;
+}
+
+p.comment-form-comment  {
+  background-position: 0 0;
+  border-width: 0;
+  box-sizing: border-box;
+  color: #3d3d3d;
+  font-family: Roboto,Helvetica,Arial,Lucida,sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 25.5px;
+  margin: 0;
+  outline: 0;
+  padding: 0 0 1em;
+  quotes: auto;
+  text-align: left;
+  text-size-adjust: 100%;
+  vertical-align: baseline;
+  word-wrap: break-word;
+}
+p.comment-form-comment  {
+  background-position: 0 0;
+  border-width: 0;
+  box-sizing: border-box;
+  color: #3d3d3d;
+  font-family: Roboto,Helvetica,Arial,Lucida,sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 25.5px;
+  margin: 0;
+  outline: 0;
+  padding: 0 0 1em;
+  quotes: auto;
+  text-align: left;
+  text-size-adjust: 100%;
+  vertical-align: baseline;
+  word-wrap: break-word;
+}
+
+p.comment-form-email  {
+  background-position: 0 0;
+  border-width: 0;
+  box-sizing: border-box;
+  color: #3d3d3d;
+  font-family: Roboto,Helvetica,Arial,Lucida,sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 25.5px;
+  margin: 0;
+  outline: 0;
+  overflow-wrap: break-word;
+  padding: 0 0 1em;
+  quotes: auto;
+  text-align: left;
+  text-size-adjust: 100%;
+  vertical-align: baseline;
+  word-wrap: break-word;
+}
+
+input#url  {
+  appearance: none;
+  background-color: #eee;
+  border: 0 solid #bbb;
+  box-sizing: border-box;
+  color: #999;
+  cursor: text;
+  font-size: 18px;
+  line-height: 1em;
+  margin: 0;
+  padding: 12px;
+  quotes: auto;
+  width: 47%;
+  word-wrap: break-word;
+}
+span.comment_date  {
+  background-position: 0 0;
+  border-width: 0;
+  box-sizing: border-box;
+  color: #000;
+  font-family: Roboto,Helvetica,Arial,Lucida,sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 25.5px;
+  list-style: outside none none;
+  margin: 0;
+  outline: 0;
+  padding: 0;
+  quotes: auto;
+  text-align: left;
+  text-size-adjust: 100%;
+  vertical-align: baseline;
+  word-wrap: break-word;
+}
+textarea#comment  {
+  background-color: #eee;
+  border: 0 solid #bbb;
+  box-sizing: border-box;
+  color: #999;
+  cursor: text;
+  font-size: 18px;
+  line-height: 1em;
+  margin: 0;
+  padding: 12px;
+  quotes: auto;
+  white-space: pre-wrap;
+  width: 100%;
+  word-wrap: break-word;
+}
+p {
+  background-position: 0 0;
+  border-width: 0;
+  box-sizing: border-box;
+  color: #3d3d3d;
+  font-family: Roboto,Helvetica,Arial,Lucida,sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 25.5px;
+  list-style: outside none none;
+  margin: 0;
+  outline: 0;
+  padding: 0;
+  quotes: auto;
+  text-align: left;
+  text-size-adjust: 100%;
+  vertical-align: baseline;
+  word-wrap: break-word;
+}
+
+span {
+  background-position: 0 0;
+  border-width: 0;
+  box-sizing: border-box;
+  color: #333;
+  font-family: Cormorant,Georgia,"Times New Roman",serif;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 22px;
+  margin: 0;
+  outline: 0;
+  padding: 0;
+  quotes: auto;
+  text-align: left;
+  text-size-adjust: 100%;
+  vertical-align: baseline;
+  word-wrap: break-word;
+}
+
+span#email-notes  {
+  background-position: 0 0;
+  border-width: 0;
+  box-sizing: border-box;
+  color: #3d3d3d;
+  font-family: Roboto,Helvetica,Arial,Lucida,sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 25.5px;
+  margin: 0;
+  outline: 0;
+  padding: 0;
+  quotes: auto;
+  text-align: left;
+  text-size-adjust: 100%;
+  vertical-align: baseline;
+  word-wrap: break-word;
+}
+a {
+  color: #3C2800;
+  cursor: pointer;
+  font-family: Bitter,serif;
+  font-size: 19.29px;
+  font-weight: 700;
+  quotes: auto;
+  text-align: left;
+}
+
+a {
+    color: #3C2800;
+    text-decoration: none;
+}
+
+.float {
+  margin: 100px;
+  padding: 58px;
+  text-align: left;
+ text-decoration: none;
+  color: #7e776e;
+}
+
+.b {
+ 
+  color: #f6b11a;
+}
+
+.label{
+  color: #f6b11a;
+}
+
+.mauden{
+  color: black;
+}
+
