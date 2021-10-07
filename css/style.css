@@ -871,14 +871,11 @@ blockquote {
 .btn, .btn-primary, .btn-secondary, .btn-light {
   font-size: 14px;
   color: darkblue;
-  padding: 13px 40px;
   border: 0;
-  min-width: 150px;
   -webkit-border-radius: 30px;
   -moz-border-radius: 30px;
   -ms-border-radius: 30px;
   border-radius: 30px; }
-
 .btn-default {
   background-color: #F7941D;
   color: #ffffff;
@@ -902,7 +899,6 @@ blockquote {
 .btn-secondary {
   background-color: #d97a08; }
   .btn-secondary:hover {
-    background-color: #d97a08;
     color: #ffffff; }
 
 .btn-primary.disabled {
@@ -2120,7 +2116,8 @@ Back To Top Section
     width: 80%; }
   .navbar-main.stiky .navbar {
     padding-top: 8px;
-    padding-bottom: 8px; }
+    padding-bottom: 8px;
+    background-color: #FDEBF2; }
   .navbar-main.open .navbar-nav {
     display: none; }
 
@@ -2142,7 +2139,7 @@ Back To Top Section
 .header-1 {
   /*position: relative;*/ }
   .header-1 .navbar-main {
-    background-color: #ffd1d1;
+    background-color: #fdebf2;
     /* END NAVBAR NAV */
     /* END STIKY */ }
     .header-1 .navbar-main .navbar-brand {
@@ -2156,7 +2153,7 @@ Back To Top Section
         color: #ffffff; }
     .header-1 .navbar-main.stiky {
       height: auto;
-      background-color: #ffffff;
+      background-color: #FDEBF2;
       position: fixed;
       top: 0;
       right: 0;
@@ -2961,3 +2958,20 @@ ul.list-info  {
 .title {
   font-family: 'Font Awesome 5 Brands';
 }
+
+.product-thumb{
+  width: 253.4px;
+  height: 253.4px;
+  position: relative;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.product_page-thumb{
+  width: 160px;
+  height: 160px;
+  position: relative;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+

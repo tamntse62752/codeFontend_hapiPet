@@ -67,19 +67,6 @@ $(document).ready(function(){
         console.log('tes ' + ocImg); 
     });
     
-    slides.owlCarousel({
-        items: 1,
-        autoplay: true,
-        autoplayTimeout: 5000,
-        autoplayHoverPause: true,
-        loop: true,
-        animateIn: 'fadeIn',
-        animateOut: 'rollOut',
-        pagination: false,
-        nav: true,
-		navText: ["<span class='fa fa-chevron-left'></span>", "<span class='fa fa-chevron-right'></span>"],
-		dots: true,
-    }); 
 
 	/* =================================
 	BACK TO TOP 
@@ -110,141 +97,42 @@ $(document).ready(function(){
 		);
 	});
 	
-
-	/* =================================
-	OWL
-	=================================== */
-	
-	var caro = $("#caro");
-	caro.owlCarousel({
-		items: 1,
-		autoplay: true,
-		autoplayTimeout: 5000,
-		autoplayHoverPause: true,
-		loop: true,
-	});	
-	var caro2 = $("#caro-2");
-	caro2.owlCarousel({
-		autoplay: true,
-		margin: 30,
-		autoplayTimeout: 5000,
-		autoplayHoverPause: true,
-		items : 3,
-		dots: true,
-		loop: true,
-		responsive:{
-			0:{
-				items:1
-			},
-			768:{
-				items:2
-			},
-			1000:{
-				items:3
-			}
-		}
-	});
-	var testimony = $("#testimonial");
-	testimony.owlCarousel({
-		items: 1,
-		autoplay: true,
-		autoplayTimeout: 5000,
-		autoplayHoverPause: true,
-		loop: true,
-		animateIn: 'fadeIn',
-        animateOut: 'fadeOut',
-	});
-	
-	var testimony2 = $("#owl-testimony2");
-	testimony2.owlCarousel({
-		items: 1,
-		autoplay: true,
-		autoplayTimeout: 5000,
-		autoplayHoverPause: true,
-		navText: ["<span class='fa fa-chevron-left'></span>", "<span class='fa fa-chevron-right'></span>"],
-		dots: true,
-		loop: true
-	});
-	var caro_2_colm = $("#caro_2_colm");
-	caro_2_colm.owlCarousel({
-		autoplay: true,
-		margin: 30,
-		autoplayTimeout: 5000,
-		autoplayHoverPause: true,
-		dots: true,
-		loop: true,
-		nav: false,
-		navText: ["<span class='fa fa-chevron-left'></span>", "<span class='fa fa-chevron-right'></span>"],
-		items : 2,
-		responsive:{
-			0:{
-				items:1
-			},
-			768:{
-				items:2
-			},
-			1000:{
-				items:2
-			}
-		}
-	});
-	var caro4 = $("#caro-4");
-	caro4.owlCarousel({
-		autoplay: true,
-		autoplayTimeout: 5000,
-		autoplayHoverPause: true,
-		items : 4,
-		dots: true,
-		loop: true,
-		responsive:{
-			0:{
-				items:1
-			},
-			768:{
-				items:2
-			},
-			1000:{
-				items:4
-			}
-		}
-	});
-	
-	/* =================================
-	MAGNIFIC POPUP
-	=================================== */
-	$('.popup-youtube, .popup-vimeo, .popup-gmaps').magnificPopup({
-      disableOn: 700,
-      type: 'iframe',
-      mainClass: 'mfp-fade',
-      removalDelay: 160,
-      preloader: false,
-
-      fixedContentPos: false
-    });
-
-	$('.popup-gallery').magnificPopup({
-	  delegate: 'a',
-	  type: 'image',
-	  tLoading: 'Loading image #%curr%...',
-	  mainClass: 'mfp-img-mobile',
-	  gallery: {
-		enabled: true,
-		navigateByImgClick: true,
-		preload: [0,1]
-	  },
-	  image: {
-		tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
-		titleSrc: function(item) {
-		  return item.el.attr('title') + '';
-		}
-	  }
-	});
-
 	
 	
 });
+// ---------------------------------------------------
+// addPet profile image 
+$(document).ready(function() {
+	
+    var readURL = function(input) {
+        if (input.files && input.files[0]) {
+            var reader = new FileReader();
+
+            reader.onload = function (e) {
+                $('.profile-pic').attr('src', e.target.result);
+            }
+    
+            reader.readAsDataURL(input.files[0]);
+        }
+    }
+   
+    $(".file-upload").on('change', function(){
+        readURL(this);
+    });
+    
+    $(".upload-button").on('click', function() {
+       $(".file-upload").click();
+    });
+});
 
 
+
+
+ 
+
+
+
+    
 
 
   
