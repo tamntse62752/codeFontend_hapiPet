@@ -202,7 +202,7 @@
 }
 
 .content .sidebar .section.search {
-    margin-top: 80px;
+    margin-top: 10px;
 }
 
 .content .sidebar .section.topics ul {
@@ -254,6 +254,10 @@
     content: "";
     display: block;
     clear: both;
+}
+
+h3 {
+    color: #5c5b5b;
 }
 
 .cd-top-pink {
