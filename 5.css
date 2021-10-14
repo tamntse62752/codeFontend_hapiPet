@@ -1,0 +1,132 @@
+div.main-container.container  {
+  color: #666;
+  font-family: Poppins,sans-serif;
+  font-size: 12px;
+  line-height: 23px;
+  quotes: auto;
+}
+
+ul.breadcrumb  {
+  color: #666;
+  font-family: Poppins,sans-serif;
+  font-size: 12px;
+  line-height: 12px;
+  list-style: outside none none;
+  quotes: auto;
+}
+
+div#content.col-sm-9  {
+  color: #666;
+  font-family: Poppins,sans-serif;
+  font-size: 12px;
+  line-height: 23px;
+  quotes: auto;
+}
+
+
+h2.title  {
+  color: #666;
+  font-family: Poppins,sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 22px;
+  quotes: auto;
+}
+
+td.text-left  {
+	border: 
+  background-color: rgb(221 221 221);
+  border-collapse: collapse;
+  color: #666;
+  font-family: Poppins,sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 17.1429px;
+  quotes: auto;
+  text-align: left;
+}
+
+.right {
+	text-align: right;
+}
+td.text-left-Content  {
+	
+  border-collapse: collapse;
+  color: #666;
+  font-family: Poppins,sans-serif;
+  font-size: 12px;
+ /* font-weight: 700;*/
+  line-height: 17.1429px;
+  quotes: auto;
+  text-align: left;
+}
+
+td.text-left-sanpham  {
+	
+  border-collapse: collapse;
+  color: #666;
+  font-family: Poppins,sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 17.1429px;
+  quotes: auto;
+  text-align: left;
+}
+
+
+a.btn.btn-primary  {
+  color: #fff;
+  cursor: pointer;
+  font-family: Poppins,sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  quotes: auto;
+  text-align: center;
+  white-space: nowrap;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+h2.title  {
+  color: #666;
+  font-family: Poppins,sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 22px;
+  quotes: auto;
+}
+
+div#content.col-sm-9  {
+  color: #666;
+  font-family: Poppins,sans-serif;
+  font-size: 12px;
+  line-height: 23px;
+  quotes: auto;
+}
+
+.table-bordered {
+    border: 1px solid rgb(221, 221, 221);
+}
+
+.breadcrumb  {
+  color: #666;
+  font-family: Poppins,sans-serif;
+  font-size: 12px;
+  line-height: 12px;
+  list-style: outside none none;
+  quotes: auto;
+  align-content: left;
+}
+
+a {
+  color: #ff5e00;
+  cursor: pointer;
+  font-family: Poppins,sans-serif;
+  font-size: 14px;
+  line-height: 12px;
+  list-style: outside none none;
+  quotes: auto;
+  text-align: left;
+}
