@@ -40,39 +40,68 @@
     <a href="#0" class="cd-top cd-is-visible">Top</a>
     <!-- NAVBAR SECTION -->
     <div class="navbar-main stiky">
-            <div class="container">
-                <nav id="navbar-example" class="navbar navbar-expand-lg">
-                    <a class="navbar-brand" href="index.html">
-                        <img src="https://i.imgur.com/Tqj8m5J.png" alt="">
-                    </a>
-                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-                    <div class="collapse navbar-collapse" id="navbarNavDropdown">
-                        <ul class="navbar-nav">
-                            <li class="nav-item dropdown dmenu">
-                                <a class="nav-link dropdown-toggle" href="index.html" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">TRANG CHỦ</a>
-                                <div class="dropdown-menu">
-                                    <a class="dropdown-item" href="index.html">Pets Care</a>
-                                    <a class="dropdown-item" href="shop.html">Pets Shop</a>
-                                </div>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="accountUpgrade.html">Upgrade account</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="findPet.php">Find Pet</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="post-list.php">Pet Blog</a>
-                            </li>
-                        </ul>
-                        <a id="modal_trigger" class="btn btn-secondary btn-nav btn-rect ml-auto">Liên hệ ngay</a>
-                    </div>
-                </nav> <!-- -->
-
-            </div>
+        <div class="container">
+            <nav id="navbar-example" class="navbar navbar-expand-lg">
+                <a class="navbar-brand" href="index.html">
+                    <img src="https://i.imgur.com/Tqj8m5J.png" alt="">
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                    <ul class="navbar-nav">
+                        <li class="nav-item dropdown dmenu">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">TRANG CHỦ</a>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" href="index.html">Pets Care</a>
+                                <a class="dropdown-item" href="pets-shop.html">Pets Shop</a>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="about-us.html">GIỚI THIỆU</a>
+                        </li>
+                        <li class="nav-item dropdown dmenu">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">DỊCH VỤ</a>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" href="services.html">Services</a>
+                                <a class="dropdown-item" href="services-single.html">Single Services</a>
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown dmenu">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">TRỞ THÀNH ĐỐI TÁC</a>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" href="page-faq.html">Faqs</a>
+                                <a class="dropdown-item" href="page-our-staff.html">Our Staff</a>
+                                <a class="dropdown-item" href="page-single-staff.html">Single Staff</a>
+                                <a class="dropdown-item" href="page-appointment-form.html">Appointment Form</a>
+                                <a class="dropdown-item" href="page-pricing-tables.html">Pricing Tables</a>
+                                <a class="dropdown-item" href="page-404.html">404 Page</a>
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown dmenu">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">BLOG</a>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" href="blog.html">Blog List</a>
+                                <a class="dropdown-item" href="blog-single.html">Single Blog</a>
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown dmenu">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">TUYỂN DỤNG</a>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" href="shop.html">Shop</a>
+                                <a class="dropdown-item" href="shop-list.html">Product List</a>
+                                <a class="dropdown-item" href="shop-single.html">Single Product</a>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="contact.html">LIÊN HỆ</a>
+                        </li>
+                    </ul>
+                    <a id="modal_trigger" href="#modal" class="btn btn-secondary btn-nav btn-rect ml-auto">Liên hệ ngay</a>
+                </div>
+            </nav> <!-- -->
         </div>
+    </div>
     <div id="class" class="">
         <div class="content-wrap">
             <div class="container">

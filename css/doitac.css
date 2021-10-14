@@ -1,0 +1,129 @@
+*{margin: 0; padding: 0;}  
+h3.title-box  {
+  box-sizing: border-box;
+  color: #000;
+  font-family: SVN-Gilroy;
+  font-size: 23px;
+  font-weight: 700;
+  line-height: 46px;
+  margin: 0;
+  quotes: auto;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+label {
+  box-sizing: border-box;
+  color: #424242;
+  cursor: default;
+  display: inline-block;
+  font-family: SVN-Gilroy;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: .5rem;
+  quotes: auto;
+  text-align: left;
+  width: 100%;
+}
+
+label {
+  box-sizing: border-box;
+  color: #424242;
+  cursor: default;
+  display: inline-block;
+  font-family: SVN-Gilroy;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: .5rem;
+  quotes: auto;
+  text-align: left;
+  width: 100%;
+}
+
+
+
+
+input.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required  {
+  background-color: #fff;
+  border: 1px solid #0e0d0d;
+  border-radius: 10px;
+  box-sizing: border-box;
+  color: #000;
+  cursor: text;
+  font-size: 16px;
+  margin: 8px 0 15px;
+  overflow: visible;
+  padding: 5px 10px;
+  quotes: auto;
+  width: 153%;
+}
+
+label {
+  color: #424242;
+  cursor: default;
+  font-family: SVN-Gilroy;
+  font-weight: 700;
+  line-height: 24px;
+  quotes: auto;
+  text-align: left;
+}
+div {
+  box-sizing: border-box;
+  color: #424242;
+  font-family: SVN-Gilroy;
+  font-weight: 300;
+  line-height: 24px;
+  quotes: auto;
+  text-align: left;
+}
+
+label {
+  box-sizing: border-box;
+  color: #424242;
+  cursor: default;
+  display: inline-block;
+  font-family: SVN-Gilroy;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: .5rem;
+  quotes: auto;
+  text-align: left;
+  width: 100%;
+}
+
+div.pform-form  {
+  background-color: #fce8e9;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  box-sizing: border-box;
+  color: #424242;
+  font-family: SVN-Gilroy;
+  font-weight: 300;
+  line-height: 24px;
+  padding: 34px 32.625em;
+  position: relative;
+  quotes: auto;
+  text-align: center;
+}
+
+input.wpcf7-form-control.wpcf7-submit  {
+  appearance: button;
+  background-color: #c71c21;
+  border-color: rgba(204,204,204,.8);
+  border-radius: 4px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  margin: 8px 0 15px;
+  overflow: visible;
+  padding: 6px 34px;
+  quotes: auto;
+  text-align: center;
+  white-space: pre;
+  width: auto;
+}

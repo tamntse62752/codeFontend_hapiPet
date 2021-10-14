@@ -1,0 +1,40 @@
+input#blankCheckbox.form-check-input.position-static  {
+  color: #000;
+  cursor: default;
+  font-family: Roboto,"Helvetica Neue",sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 10.5px;
+  quotes: auto;
+  word-wrap: break-word;
+}
+
+span {
+	font-family: initial;
+  color: #333;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 22px;
+  quotes: auto;
+  text-align: left;
+  word-wrap: break-word;
+}
+
+.form-check-input {
+    position: absolute;
+    margin-top: .24rem;
+    margin-left: 3.65rem;
+}
+
+button.btn.btn-datlich  {
+  background-color: #f1695b;
+  color: #fff;
+  cursor: pointer;
+  font-family: Roboto,"Helvetica Neue",sans-serif;
+  font-size: 13.8px;
+  line-height: 17.25px;
+  quotes: auto;
+  text-align: right;
+  white-space: nowrap;
+  word-wrap: break-word;
+}
