@@ -876,6 +876,20 @@ blockquote {
   -moz-border-radius: 30px;
   -ms-border-radius: 30px;
   border-radius: 30px; }
+
+.btn-secondary2 {
+
+  font-size: 14px;
+  background-color: #d97a08;
+  color: darkblue;
+  border: 0;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  border-radius: 30px;
+  margin: 20px;
+
+}
 .btn-default {
   background-color: #F7941D;
   color: #ffffff;
@@ -1525,18 +1539,18 @@ TESTIMONIALS
   color: white;
   min-height: 265px;
   /*&:before{
-  	content: '';
-  	position: absolute;
-  	background-color: rgba($color-primary, .7);
-  	top: 0;
-  	left: 0;
-  	bottom: 0;
-  	width: 100%;
+    content: '';
+    position: absolute;
+    background-color: rgba($color-primary, .7);
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
   }
   &.bgdark{
-  	&:before{
-  		background-color: rgba($color-secondary, .4);
-  	}
+    &:before{
+      background-color: rgba($color-secondary, .4);
+    }
   }*/ }
   .rs-feature-box-1 .body {
     position: relative; }
@@ -2079,7 +2093,7 @@ Back To Top Section
   .navbar-main .navbar {
     padding: 0; }
   .navbar-main ol, .navbar-main li {
-    margin: 0 0;
+    margin: 9px 7px;
     font-size: 14px;
     font-weight: 700; }
   .navbar-main ul {
@@ -2973,5 +2987,52 @@ ul.list-info  {
   position: relative;
   padding-left: 15px;
   padding-right: 15px;
+}
+
+.chubu {
+    font-size: x-large;
+    color: #f93030;
+    text-decoration: none;
+}
+
+nav-item2 {
+  margin: 20px;
+
+}
+
+.nav-link2 {
+  
+  background-color: transparent;
+  color: #fff;
+  cursor: pointer;
+  font-family: Bitter,serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 21px;
+  list-style: outside none none;
+  quotes: auto;
+  text-align: left;
+
+ 
+  padding-right: 2.5rem;
+  padding-left: 0.5rem;
+}
+
+div.contact-info  {
+  color: #999;
+  font-family: Bitter;
+  font-size: 15px;
+  line-height: 22.5px;
+  quotes: auto;
+  text-align: left;
+}
+
+div.navbar-main  {
+  color: #999;
+  font-family: Bitter,serif;
+  font-size: 15px;
+  line-height: 22.5px;
+  quotes: auto;
+  text-align: left;
 }
 
