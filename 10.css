@@ -1,0 +1,11 @@
+div.title-page1  {
+  color: transparent;
+  font-family: Bitter,serif;
+  font-size: 0px;
+  font-weight: 700;
+  quotes: auto;
+  text-align: center;
+}
+
+.content-wrap {
+  padding: 93px 0; }

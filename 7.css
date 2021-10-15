@@ -1,0 +1,90 @@
+div.specialist-col.col-6.col-lg-4.col-xl-3  {
+  box-sizing: border-box;
+  color: #333;
+  flex: 0 0 25%;
+  font-family: Roboto,Arial,sans-serif;
+  font-size: 15px;
+  line-height: 22.5px;
+  max-width: 25%;
+  padding-left: 15px;
+  padding-right: 15px;
+  position: relative;
+  quotes: auto;
+  text-align: left;
+  width: 100%;
+}
+
+
+
+
+
+img {
+  border-style: none;
+  box-sizing: border-box;
+  color: #0056b3;
+  cursor: pointer;
+  font-family: Roboto,Arial,sans-serif;
+  font-size: 15px;
+  height: auto;
+  line-height: 0;
+  max-width: 100%;
+  quotes: auto;
+  text-align: left;
+  vertical-align: middle;
+  width: 100%;
+}
+
+
+a {
+  background-color: #1576c4;
+  background-image: url(../images/arrow-right-white.png);
+  background-position: right 15px center;
+  background-repeat: no-repeat no-repeat;
+  border-radius: 18px;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Roboto,Arial,sans-serif;
+  font-size: 16px;
+  line-height: 19px;
+  padding: 8px 25px 8px 18px;
+  quotes: auto;
+  text-align: center;
+  text-decoration: none;
+}
+
+div.specialista  {
+  box-sizing: border-box;
+  color: #333;
+  font-family: Roboto,Arial,sans-serif;
+  font-size: 15px;
+  line-height: 22.5px;
+  margin: 20px 0 0;
+  quotes: auto;
+  text-align: center;
+}
+
+h3.specialist-title  {
+  box-sizing: border-box;
+  color: #333;
+  font-family: Roboto,Arial,sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 23px;
+  margin: 0;
+  quotes: auto;
+  text-align: center;
+}
+
+div.specialist-box  {
+  box-shadow: rgba(0,0,0,.1) 0 4px 14px;
+  box-sizing: border-box;
+  color: #333;
+  font-family: Roboto,Arial,sans-serif;
+  font-size: 15px;
+  line-height: 22.5px;
+  padding: 20px 15px 25px;
+  quotes: auto;
+  text-align: left;
+}
