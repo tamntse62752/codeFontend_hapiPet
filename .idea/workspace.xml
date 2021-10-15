@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e0ed07d-998e-4923-b6c0-c4796f447276" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code Admin/assets/css/customStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/css/component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/css/jquery.mCustomScrollbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/css/linearicons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/css/pcoded-horizontal.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/fonts/Linearicons-Free-1.hxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/fonts/Linearicons-Free.hxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/fonts/Linearicons-Free.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/fonts/Linearicons-Free.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/fonts/Linearicons-Free.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/fonts/Linearicons-Free.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/fonts/fontawesome-webfont-1.hxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/fonts/fontawesome-webfont.hxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/SVG-animated/svg-weather.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/feather/css/feather.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/feather/fonts/feather.hxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/feather/fonts/feather.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/feather/fonts/feather.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/feather/fonts/feather.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/css/flag-icon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ad.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ae.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/af.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ai.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/al.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/am.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ao.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/aq.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/as.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/at.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/au.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/aw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ax.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/az.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ba.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/bb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/bd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/be.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/bf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/bg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/bh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/bi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/bj.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/bl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/bm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/bn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/bo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/bq.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/br.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/bs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/bt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/bv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/bw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/by.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/bz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ca.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/cc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/cd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/cf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/cg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ci.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ck.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/cl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/cm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/cn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/co.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/cr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/cu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/cv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/cw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/cx.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/cy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/cz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/de.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/dj.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/dk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/dm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/do.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/dz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ec.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ee.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/eg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/eh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/er.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/es.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/et.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/eu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/fi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/fj.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/fk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/fm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/fo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/fr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ga.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/gb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/gd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ge.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/gf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/gg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/gh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/gi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/gl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/gm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/gn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/gp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/gq.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/gr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/gs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/gt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/gu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/gw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/gy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/hk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/hm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/hn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/hr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ht.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/hu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/id.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ie.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/il.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/im.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/in.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/io.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/iq.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ir.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/is.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/it.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/je.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/jm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/jo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/jp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ke.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/kg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/kh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ki.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/km.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/kn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/kp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/kr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/kw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ky.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/kz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/la.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/lb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/lc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/li.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/lk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/lr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ls.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/lt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/lu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/lv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ly.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ma.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/mc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/md.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/me.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/mf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/mg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/mh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/mk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ml.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/mm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/mn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/mo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/mp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/mq.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/mr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ms.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/mt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/mu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/mv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/mw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/mx.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/my.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/mz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/na.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/nc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ne.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/nf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ng.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ni.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/nl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/no.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/np.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/nr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/nu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/nz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/om.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/pa.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/pe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/pf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/pg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ph.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/pk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/pl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/pm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/pn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/pr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ps.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/pt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/pw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/py.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/qa.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ro.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/rs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ru.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/rw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/sa.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/sb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/sc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/sd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/se.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/sg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/sh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/si.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/sj.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/sk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/sl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/sm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/sn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/so.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/sr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ss.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/st.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/sv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/sx.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/sy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/sz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/tc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/td.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/tf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/tg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/th.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/tj.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/tk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/tl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/tm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/tn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/to.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/tr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/tt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/tv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/tw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/tz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ua.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ug.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/um.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/un.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/us.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/uy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/uz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/va.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/vc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ve.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/vg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/vi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/vn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/vu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/wf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ws.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/ye.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/yt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/za.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/zm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/flag-icons/fonts/zw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/font-awesome/fonts/fontawesome-webfont-1.hxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/font-awesome/fonts/fontawesome-webfont.hxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/icofont/css/icofont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/icofont/fonts/icofont.hxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/icofont/fonts/icofont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/icofont/fonts/icofont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/icofont/fonts/icofont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/ion-icon/css/ionicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/ion-icon/fonts/ionicons.hxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/ion-icon/fonts/ionicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/ion-icon/fonts/ionicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/ion-icon/fonts/ionicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/material-design/css/material-design-iconic-font.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/material-design/fonts/Material-Design-Iconic-Font.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/material-design/fonts/Material-Design-Iconic-Font.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/material-design/fonts/Material-Design-Iconic-Font.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/simple-line-icons/css/simple-line-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/simple-line-icons/fonts/Simple-Line-Icons.hxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/simple-line-icons/fonts/Simple-Line-Icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/simple-line-icons/fonts/Simple-Line-Icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/simple-line-icons/fonts/Simple-Line-Icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/simple-line-icons/fonts/Simple-Line-Icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/themify-icons/fonts/themify-1.hxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/themify-icons/fonts/themify.hxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/themify-icons/fonts/themify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/themify-icons/fonts/themify.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/themify-icons/fonts/themify.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/themify-icons/themify-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/typicons-icons/css/typicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/typicons-icons/fonts/typicons-1.hxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/typicons-icons/fonts/typicons.hxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/typicons-icons/fonts/typicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/typicons-icons/fonts/typicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/typicons-icons/fonts/typicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/weather-icons/css/weather-icons-wind.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/weather-icons/css/weather-icons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/weather-icons/fonts/weathericons-regular-webfont-1.hxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/weather-icons/fonts/weathericons-regular-webfont.hxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/weather-icons/fonts/weathericons-regular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/weather-icons/fonts/weathericons-regular-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/weather-icons/fonts/weathericons-regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/weather-icons/fonts/weathericons-regular-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/icon/weather-icons/weather-custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/animate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/auth/Logo-small-bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/auth/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/auth/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/avatar-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/avatar-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/avatar-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/avatar-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/avatar-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/avatar-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/avatar-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/breadcrumb-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/browser/chrome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/browser/firefox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/browser/ie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/browser/opera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/browser/safari.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/chat-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/commingsoon/cs-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/commingsoon/cs-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/complete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/details_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/details_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/e-payment/card/amex.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/e-payment/card/mastercard.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/e-payment/card/visa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/error/error-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/error/error-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/error/error-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/error/error-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/error/error-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/error/error-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/logo-blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/navbar/nav1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/navbar/nav10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/navbar/nav2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/navbar/nav3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/navbar/nav4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/navbar/nav5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/navbar/nav6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/navbar/nav7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/navbar/nav8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/navbar/nav9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/select-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/SmoothScroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/animation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/auth/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/bootstrap-growl.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/classie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/common-pages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/horizontal-layout.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/jquery.mCustomScrollbar.concat.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/jquery.mousewheel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/jquery.quicksearch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/main/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/menu/box-layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/menu/menu-compact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/menu/menu-header-fixed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/menu/menu-hori-fixed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/menu/menu-rtl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/menu/menu-sidebar-fixed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/menu/menu-sidebar-static.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/modalEffects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/owl-custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/pcoded.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/rating.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/role/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/script.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/swiper-custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/user/add.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/user/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/js/vartical-layout.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/font-awesome/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/jquery-slimscroll/js/jquery.slimscroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/jquery-ui/js/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/jquery/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/modernizr/js/css-scrollbars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/modernizr/js/modernizr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/assets/plugins/popper.js/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/role-add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/staff_home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/staff_login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code Admin/assets/js/auth/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/Code Admin/assets/js/auth/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code Quản lý nhân viên/assets/js/auth/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/Code Quản lý nhân viên/assets/js/auth/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/customStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/customStyle.css" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\git_folder_2\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1yflEmDFinp4nb6I13bije7zoN8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../Java/AndroidSDK" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/staff" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/css/customStyle.css" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git_folder_2\staff" />
+      <recent name="D:\git_folder_2\staff\assets\css" />
+      <recent name="D:\git_folder_2\Code Admin\assets\css" />
+      <recent name="D:\git_folder_2" />
+      <recent name="D:\git_folder_2\vet" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\git_folder_2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.staff_login.html">
+    <configuration name="app-calender.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/git_folder_2/MotaAdmin/app-calender.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="category-add.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/git_folder_2/staff/category-add.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="category-index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/git_folder_2/staff/category-index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="role-add.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/git_folder_2/staff/role-add.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="staff_login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/git_folder_2/staff/staff_login.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 8.0.27" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.27" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="b2a9dca7-9d0b-4e1e-98a8-afb19c1328d2" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_0_27_git_folder_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55496" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.27" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="b2a9dca7-9d0b-4e1e-98a8-afb19c1328d2" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_git_folder_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55496" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat 8.0.27" />
+      <item itemvalue="JavaScript Debug.app-calender.html" />
+      <item itemvalue="JavaScript Debug.category-add.html" />
+      <item itemvalue="JavaScript Debug.category-index.html" />
+      <item itemvalue="JavaScript Debug.role-add.html" />
+      <item itemvalue="JavaScript Debug.staff_login.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.staff_login.html" />
+        <item itemvalue="JavaScript Debug.role-add.html" />
+        <item itemvalue="JavaScript Debug.category-index.html" />
+        <item itemvalue="JavaScript Debug.category-add.html" />
+        <item itemvalue="JavaScript Debug.app-calender.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e0ed07d-998e-4923-b6c0-c4796f447276" name="Default Changelist" comment="" />
+      <created>1632650413149</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632650413149</updated>
+      <workItem from="1632650417308" duration="343000" />
+      <workItem from="1632707414693" duration="1100000" />
+      <workItem from="1632709758870" duration="2574000" />
+      <workItem from="1632800202875" duration="3154000" />
+      <workItem from="1632812261588" duration="13911000" />
+      <workItem from="1632886090726" duration="13971000" />
+      <workItem from="1632918688134" duration="1707000" />
+      <workItem from="1633231155954" duration="2264000" />
+      <workItem from="1633312889199" duration="10971000" />
+      <workItem from="1633355583174" duration="4348000" />
+      <workItem from="1633400020735" duration="27567000" />
+      <workItem from="1633486690447" duration="11495000" />
+      <workItem from="1633523600021" duration="1777000" />
+      <workItem from="1633615868271" duration="1185000" />
+      <workItem from="1633658734857" duration="4397000" />
+      <workItem from="1634129446907" duration="602000" />
+      <workItem from="1634279779895" duration="31216000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cart_home.html</url>
+          <line>193</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

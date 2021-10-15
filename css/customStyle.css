@@ -282,7 +282,32 @@ h3 {
 }
 
 .btn-pink:hover {
-    background-color: #ff3333;
+    background-color: #ff3333; /*dark 9%*/
+    color: #FFFFFF;
+    text-shadow: 1px 1px 0px rgba(150, 150, 150, 1);
+}
+
+.btn-teal {
+    background-color: #17D0BC;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.btn-teal:hover {
+    background-color: #14b8a7; /*dark 5%*/
+    color: #FFFFFF;
+    text-shadow: 1px 1px 0px rgba(150, 150, 150, 1);
+}
+
+.btn-blue {
+    background-color: #44BAF1;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.btn-blue:hover {
+    background-color: #12a8ed; /*dark 11%*/
+    color: #FFFFFF;
     text-shadow: 1px 1px 0px rgba(150, 150, 150, 1);
 }
 
@@ -306,12 +331,32 @@ h3 {
 }
 
 .txt {
-    font-family: Manrope, sans-serif;
+    font-family: Manrope, sans-serif !important;
+}
+
+.txt-hover-bold {}
+.txt-hover-bold:hover {
+    font-weight: bold;
+}
+
+.txt-hover-shadow {}
+.txt-hover-shadow:hover {
+    text-shadow: 1px 1px 0px rgba(150, 150, 150, 1);
 }
 
 .txt-hover-pink {}
 .txt-hover-pink:hover {
     color: #FF6262;
+}
+
+.txt-hover-teal {}
+.txt-hover-teal:hover {
+    color: #17D0BC;
+}
+
+.txt-hover-blue {}
+.txt-hover-blue:hover {
+    color: #44BAF1;
 }
 
 .txt-hover-white {}
@@ -353,6 +398,10 @@ h3 {
 
 .border-pink {
     border: 1px solid #FF6262;
+}
+
+.border-teal {
+    border: 1px solid #17D0BC;
 }
 
 .square-icon-sm {
